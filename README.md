@@ -1,7 +1,8 @@
 # dot_progress
 
-虚线进度条，类似instgram效果
+flutter虚线进度条，类似instgram效果，效果请查看项目下.gif文件
 好用记得给个👍🏻。
+![Image text](https://github.com/SkateLiu/dot_progress/Untitled.gif)
 
 ## Getting Started
 
